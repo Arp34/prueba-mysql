@@ -89,5 +89,6 @@ The project includes SQL queries that answer business requirements such as:
 ## Developer Information
 
 **Developer:** Axel David Ruiz Polo
+**GitHub Repository** https://github.com/Arp34/prueba-mysql.git
 
 Riwi – Relational Databases Performance Assessment
